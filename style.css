@@ -1,0 +1,25 @@
+body{
+    background-color:rgb(41, 39, 39);
+}
+h1{
+    color:white;
+    padding:10px;
+}
+h2{
+    color:white;
+    margin-left:43%;
+    font-size:300%;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color:white;
+}
+h3{
+    background-color:white;
+    color:black;
+}
+a{
+    color:white;
+}
+li{
+    margin-left:90%;
+    display:inline-block;
+}
